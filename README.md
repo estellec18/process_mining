@@ -9,3 +9,8 @@ L'objectif est d'évaluer la mise en œuvre réelle d’un processus et d'identi
 
 Source des données : données relatif à un process 'order_to_cash' générées artificiellement et mises à disposition sur https://processminingdata.com/
 
+![alt text](<Capture d’écran 2024-03-06 à 17.45.59-1.png>)
+
+
+![alt text](<Capture d’écran 2024-03-06 à 17.46.26.png>)
+
