@@ -7,7 +7,7 @@ Le process mining est une approche analytique visant à construire une vision ex
 L'objectif est d'évaluer la mise en œuvre réelle d’un processus et d'identifier les déviations par rapport au processus idéal, les goulots d’étranglement et les potentielles optimisations du processus.
 
 
-Source des données : données relatif à un process 'order_to_cash' générées artificiellement et mises à disposition sur https://processminingdata.com/
+Source des données : données relatives à un process 'order_to_cash' générées artificiellement et mises à disposition sur https://processminingdata.com/
 
 ci-dessous quelques visualisation issues de l'analyse (cf. notebook)
 #
