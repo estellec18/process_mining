@@ -1,6 +1,6 @@
 # process_mining
 
-Ce projet a pour vocation de tester l'efficacité et la valeur ajoutée du **process mining** sur un business case concret (bien qu'artificiel).
+*Ce projet a pour vocation de tester l'efficacité et la valeur ajoutée du **process mining** sur un business case concret (bien qu'artificiel).*
 
 Le process mining est une approche analytique visant à construire une vision exhaustive et objective des business process d'une entreprise à partir de données factuelles (les logs d'un ERP).
 
