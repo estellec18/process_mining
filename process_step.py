@@ -7,7 +7,7 @@ import pandas as pd
 import numpy as np
 
 
-def process_step_per_order(df, case_id, step_name):
+def process_step_per_order(df, case_id:str, step_name:str):
     """For each case id, provides a list of steps completed in the right order
     Returns:
         pd.DataFrame
@@ -37,7 +37,7 @@ def remove_item_dico(df):
         return df
 
 
-def compliance_check(df, process_flow):
+def compliance_check(df, process_flow:list):
     """Returns a dataframe with analysis of the different variants of the process flow existing
     Returns:
         pd.DataFrame
@@ -125,7 +125,7 @@ def most_duplicated_steps(df):
     return mst_dup_stps
 
 
-def most_reversed_steps(df, process_flow):
+def most_reversed_steps(df, process_flow:list):
     """Returns a dictionary that list the steps of the process that were not made in the right order, and the number of times it happened
     Returns:
         dict: {step: nb of variations where the step was reversed}
