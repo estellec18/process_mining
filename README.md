@@ -9,6 +9,10 @@ L'objectif est d'évaluer la mise en œuvre réelle d’un processus et d'identi
 
 Source des données : données relatives à un process 'order_to_cash' générées artificiellement et mises à disposition sur https://processminingdata.com/
 
+[Notebook d'analyse](Order_to_cash.ipynb)
+[Fonctions créées pour mener l'analyse du process](process_step.py)
+
+
 ci-dessous quelques visualisation issues de l'analyse (cf. notebook)
 #
 
