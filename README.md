@@ -2,7 +2,7 @@
 
 *Ce projet a pour vocation de tester l'efficacité et la valeur ajoutée du **process mining** sur un business case concret (bien qu'artificiel).*
 
-Le process mining est une approche analytique visant à construire une vision exhaustive et objective des business process d'une entreprise à partir de données factuelles (les logs d'un ERP).
+Le process mining est une approche analytique permrettant de construire une vision exhaustive et objective des business process d'une entreprise à partir de données factuelles (les logs d'un ERP).
 
 L'objectif est d'évaluer la mise en œuvre réelle d’un processus et d'identifier les déviations par rapport au processus idéal, les goulots d’étranglement et les potentielles optimisations du processus.
 
